@@ -1,6 +1,6 @@
 # ERP Management System
 
-![GitHub Workflow Status](https://img.shields.io/badge/build-passing-brightgreen) ![Language](https://img.shields.io/badge/language-Java-red) ![Microservices](https://img.shields.io/badge/microservices-SpringBoot-green)
+![GitHub Workflow Status](https://img.shields.io/badge/build-passing-brightgreen) ![Language](https://img.shields.io/badge/language-Java-red) ![Framework](https://img.shields.io/badge/framework-SpringBoot-green)
 ![RestTemplate](https://img.shields.io/badge/RestTemplate-darkgreen) ![Event Driven](https://img.shields.io/badge/eventdriven-RabbitMQ-orange)  ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue)
 
 A **microservices-based, fully modular ERP system** designed to manage customers, products, orders, and sales reports for enterprises. Built for high performance, security, and scalability.  
